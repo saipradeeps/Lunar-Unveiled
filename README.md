@@ -5,7 +5,6 @@ Advanced image processing and AI reconstruction of Chandrayaan-2 OHRC (Orbiter H
 ![Lunar Surface Analysis](https://img.shields.io/badge/Mission-Chandrayaan--2-orange)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🎯 Project Overview
 
@@ -313,16 +312,6 @@ Automatically annotated craters with size and location data
 - ✅ Automated crater detection with 90%+ accuracy
 - ✅ End-to-end pipeline in Google Colab (free tier compatible)
 
-## 👨‍💻 Author
-
-**Pradeep Deverakonda**
-- GitHub: [@saipradeeps](https://github.com/saipradeeps)
-- Project: Lunar Surface Reconstruction
-- Date: December 2025
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -332,20 +321,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google Colab** for free GPU access
 - **OpenCV** community for image processing tools
 
-
-## 📖 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{Lunar-Unveiled-2025,
-  author = {Sai Pradeep S},
-  title = {Lunar Unveiled: AI-Powered Lunar Surface Reconstruction},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/saipradeeps/Lunar-Unveiled}
-}
-```
 
 ---
 
